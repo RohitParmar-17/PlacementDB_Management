@@ -6,9 +6,9 @@ The Placement System Database is a database management system designed to stream
 ## Screenshots
 Here are some screenshots of the TextUtils React application:
 
-<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil1.png" alt="Home Page" width="100%">
+<img src="https://github.com/RohitParmar-17/PlacementDB_Management/blob/master/placement1.png" alt="Home Page" width="100%">
 
-<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil2.png" alt="Dark Mode" width="100%">
+<img src="https://github.com/RohitParmar-17/PlacementDB_Management/blob/master/placement2.png" alt="Dark Mode" width="100%">
 
 ## Features
 - **Student Management**: Store and manage student details, resumes, and placement status.
