@@ -3,6 +3,13 @@
 ## Introduction
 The Placement System Database is a database management system designed to streamline the process of managing placement-related information for educational institutions, companies, and students. It facilitates the storage, retrieval, and manipulation of data related to job placements, internships, and recruitment activities.
 
+## Screenshots
+Here are some screenshots of the TextUtils React application:
+
+<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil1.png" alt="Home Page" width="100%">
+
+<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil2.png" alt="Dark Mode" width="100%">
+
 ## Features
 - **Student Management**: Store and manage student details, resumes, and placement status.
 - **Company Management**: Maintain records of recruiting companies, job openings, and requirements.
